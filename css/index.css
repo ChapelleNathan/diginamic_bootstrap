@@ -11892,25 +11892,25 @@ ul {
 .cards .info a {
   font-size: 0.7em;
 }
-.cards .info footer .details > hgroup > .date {
+.cards .info main .details > hgroup > .date {
   background-image: linear-gradient(transparent 60%, #f74e2d);
   width: fit-content;
 }
-.cards .info footer .book > .buttons button {
+.cards .info main .booking > .buttons button {
   padding-block: 0.1rem;
   padding-inline: 1.2em;
 }
-.cards .info footer .book > .buttons .detail {
+.cards .info main .booking > .buttons .detail {
   background-color: white;
 }
-.cards .info footer .book > .buttons .detail:hover {
+.cards .info main .booking > .buttons .detail:hover {
   background-color: #F74E2D;
   color: white;
 }
-.cards .info footer .book > .buttons .book {
+.cards .info main .booking > .buttons .book {
   color: #fff;
 }
-.cards .info footer .book > .buttons .book:hover {
+.cards .info main .booking > .buttons .book:hover {
   background-color: #fff;
   color: #F74E2D;
 }
